@@ -43,7 +43,7 @@ python ratemate someaudio.mp3 --debug
 ## Example output
 <div align="center" width="100px">
  <picture>
-   <img alt="Ratemate" src="https://github.com/bravelab/ratemate/blob/main/ratemate-example.png">
+   <img alt="Ratemate" src="https://github.com/musictechlab/mtl-ratemate/blob/main/ratemate-example.png">
  </picture>
 </div>
 
@@ -51,7 +51,7 @@ python ratemate someaudio.mp3 --debug
 
 MIT License
 
-Copyright (c) 2024 Brave Sp. z o.o
+Copyright (c) 2024 MusicTech Lab
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -73,9 +73,9 @@ SOFTWARE.
 
 <div align="center">
   MusicTech Lab - Rockstars Developers dedicated to the The Music Industry<br>
-  <a href="https://www.bravelab.io/">Website</a>
+  <a href="https://musictechlab.io/">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/bravelab.io">LinkdedIn</a><span> | </span>
-  <a href="mailto:office@bravelab.io">Let's talk</a><br>
+  <a href="https://www.linkedin.com/company/musictechlab">LinkdedIn</a><span> | </span>
+  <a href="mailto:contact@musictechlab.io">Let's talk</a><br>
   Crafted by https://www.musictechlab.io
 </div>
