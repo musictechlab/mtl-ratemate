@@ -1,5 +1,7 @@
 # Ratemate
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 Ratemate is an automated proof of concept tool designed for the analysis of audio tracks. 
 It proficiently extracts lyrics from the provided audio and subsequently conducts evaluations based on the PEGI (Pan European Game Information) scale.
 
@@ -45,7 +47,6 @@ python ratemate someaudio.mp3 --debug
  </picture>
 </div>
 
-
 ## License
 
 MIT License
@@ -78,5 +79,3 @@ SOFTWARE.
   <a href="mailto:office@bravelab.io">Let's talk</a><br>
   Crafted by https://www.musictechlab.io
 </div>
-
-
